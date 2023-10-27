@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Equipe AV3 - Egrinaldo | Cauan | Jackson | Rinaldo | Eduardo",
+  "author": "Equipe - Egrinaldo | Cauan | Jackson | Rinaldo ",
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2"
